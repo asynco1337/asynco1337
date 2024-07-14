@@ -30,7 +30,3 @@
   <h2>Discord Activity</h2>
   <img src="https://lanyard.cnrad.dev/api/1212599349192949780?theme=light&bg=fff&animated=true" alt="Discord Activity">
 </div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_REPOSITORY" alt="Profile views">
-</div>
